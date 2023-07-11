@@ -1,3 +1,5 @@
 # forkify Project
 
-Recipe application with custom recipe uploads.
+Recipe application.
+Search your recipe
+https://forkifyssd.netlify.app/
